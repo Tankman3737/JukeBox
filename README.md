@@ -5,6 +5,7 @@ JukeBox_grid layout for Attractmode 3.2
 1: Put the AudioMode_xtra.nut in the plugins folder.
 
 2: Start the layout and add up to 10 albums, I have mine in the main AM plus folder inside "music", be aware of the track name length as it doesn't scroll.
+Add artwork-cd.png and cover.png inside the corresponding music folder.
 
 3: I use an Xbox 360 controller so set custom 1&2 for vol up/down ( Triggers)  and custom 4 for album select (LB).
 look for the words.png ( or similar ) if you want to swap out what shows on screen for your own .png
