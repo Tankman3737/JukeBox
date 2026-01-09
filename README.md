@@ -2,7 +2,7 @@
 Jukebox layout using modified AudioMode plugin
 JukeBox_grid layout for Attractmode 3.2
 
-1: Unzip and put in the layouts folder.
+1: Unzip and put "Jukebox_grid" in the layouts folder. Watch out for the Folder inside a folder that unzip does sometimes.
 
 2: Put the AudioMode_xtra.nut in the plugins folder.
 
