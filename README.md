@@ -27,3 +27,6 @@ Have a play, have fun, let me know if you find any issues or just want to chat.
 ![image alt](https://github.com/Tankman3737/JukeBox/blob/cdb6fbfa2c31259b44eaa4f7ed4e669636ca165f/JB2.png)
 ![image alt](https://github.com/Tankman3737/JukeBox/blob/cdb6fbfa2c31259b44eaa4f7ed4e669636ca165f/JB4.png)
 ![image alt](https://github.com/Tankman3737/JukeBox/blob/cdb6fbfa2c31259b44eaa4f7ed4e669636ca165f/JB5.png)
+![image alt](https://github.com/Tankman3737/JukeBox/blob/afcb509233734b00d7f3eb3dd27af5f776a742c5/JB6.png)
+![image alt](https://github.com/Tankman3737/JukeBox/blob/afcb509233734b00d7f3eb3dd27af5f776a742c5/JB7.png)
+
